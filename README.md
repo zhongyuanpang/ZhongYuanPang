@@ -10,5 +10,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongyuanpang&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zhongyuanpang&show_icons=true&theme=dark&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=zhongyuanpang&theme=dark)
-![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=333.1007.0.0&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=zhongyuanpang&theme=github)
